@@ -357,15 +357,13 @@ variables:
     domain: WIAT
     description: >
       <p>A layer showing the selected WIAT woodlands indicating their name, year approved and phase.</p>
-
   - id: wiat_eligible_area
     name: Eligible Area
     domain: WIAT
     description: >
-      <p>Data zones based on the settlements with more than 2,000 people.</p>
-
+      <p>Settlements with a population of at least 2,000 people within a 1 km buffer from a woodland.</p>
   - id: wiat_priority_area
     name: Priority Area
     domain: WIAT
     description: >
-      <p>Data zones based on the 15% most deprived areas.</p>
+      <p>The 15% most deprived areas within a 500 m buffer from a woodland.</p>
