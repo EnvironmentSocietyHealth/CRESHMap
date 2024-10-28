@@ -356,7 +356,7 @@ variables:
     name: Woodlands
     domain: WIAT
     description: >
-      <p>A layer showing the selected WIAT woodlands indicating their name, year approved and phase.</p>
+      <p>WIAT areas with name and year approved.</p>
   - id: wiat_eligible_area
     name: Eligible Area
     domain: WIAT
